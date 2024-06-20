@@ -139,8 +139,8 @@ a {
   }
 
   section {
-    padding-top: 4vh;
-    height: 96vh;
+    padding-top: 5vh;
+    height: 95vh;
     margin: 0 10rem;
     box-sizing: border-box;
     min-height: fit-content;
@@ -190,6 +190,7 @@ a {
     font-size: 3rem;
     text-align: center;
   }
+
   
   #socials-container {
     display: flex;
@@ -249,6 +250,7 @@ a {
   .btn-container {
     gap: 1rem;
   }
+
   #about {
     position: relative;
   }
@@ -275,13 +277,13 @@ a {
     width: 400px;
     object-fit: cover;
   }
-  
+
   .arrow {
     position: absolute;
     right: -5rem;
     bottom: 2.5rem;
   }
-  
+
   .details-container {
     padding: 1.5rem;
     flex: 1;
